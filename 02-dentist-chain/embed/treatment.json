@@ -1,0 +1,22 @@
+[
+    {
+        "id": "Treatment100",
+        "name": "Root Canal"
+    },
+    {
+        "id": "Treatment101",
+        "name": "Wisdom Tooth Extraction"
+    },
+    {
+        "id": "Treatment102",
+        "name": "Scaling"
+    },
+    {
+        "id": "Treatment104",
+        "name": "Whitening"
+    },
+    {
+        "id": "Treatment105",
+        "name": "Filling"
+    }
+]

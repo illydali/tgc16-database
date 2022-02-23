@@ -1,0 +1,20 @@
+[
+    {
+        "id": "Clinic122",
+        "name": "Some Clinic",
+        "address": {
+            "street_name": "Some road in Singapore",
+            "postal_code": "S330110"
+        },
+        "dentists": ["Dentist111","Dentist222"]
+    },
+    {
+        "id": "Clinic123",
+        "name": "Another Some Clinic",
+        "address": {
+            "street_name": "Another road in Singapore",
+            "postal_code": "S430430"
+        },
+        "dentists": ["Dentist111", "Dentist333" ]
+    }
+]

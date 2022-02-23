@@ -1,0 +1,37 @@
+[
+    {
+        "id": "Clinic122",
+        "name": "Some Clinic",
+        "address": {
+            "street_name": "Some road in Singapore",
+            "postal_code": "S330110"
+        },
+        "dentists": [{
+            "dentist_id": "Dentist111",
+            "name": "Mary Tan",
+            "contact_no": 93331111
+        }, {
+            "dentist_id": "Dentist222",
+            "name": "James Bond",
+            "contact_no": 92224444
+        }]
+
+    },
+    {
+        "id": "Clinic123",
+        "name": "Another Some Clinic",
+        "address": {
+            "street_name": "Another road in Singapore",
+            "postal_code": "S430430"
+        },
+        "dentists": [{
+            "dentist_id": "Dentist111",
+            "name": "Mary Tan"
+        }, {
+            "dentist_id": "Dentist333",
+            "name": "Peter Wong",
+            "contact_no": 93215555
+        }]
+
+    }
+]

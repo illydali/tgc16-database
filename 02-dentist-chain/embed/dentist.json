@@ -1,0 +1,100 @@
+[
+    {
+        "id": "Dentist111",
+        "name": "Mary Tan",
+        "contact_no": 93331111,
+        "patients": [
+            {
+                "patient_id": "Patient111",
+                "name": "Lim Ah Jian",
+                "mobile_no": 95432011,
+                "allergy": "none"
+            },
+            {
+                "patient_id": "Patient222",
+                "name": "Muhd Noor Saifuman",
+                "mobile_no": 93442810,
+                "allergy": "none"
+            }
+        ],
+        "appointments" : [
+            {
+                "appointment_id" : "101",
+                "date" : "2022-05-13",
+                "time" : 1330,
+                "clinic_id": "Clinic122",
+                "clinic_name": "Some Clinic",
+                "patient_id": "Patient222",
+                "patient_name": "Muhd Noor Saifuman",
+                "patient_mobile_no": 93442810,
+                "treatment_id": "Treatment104",
+                "name": "Whitening"
+            },
+            {
+                "appointment_id" : "102",
+                "date" : "2022-05-13",
+                "time" : 1600,
+                "clinic_id": "Clinic123",
+                "clinic_name": "Another Some Clinic",
+                "patient_id": "Patient111",
+                "patient_name": "Lim Ah Jian",
+                "patient_mobile_no": 95432011,
+                "treatment_id": "Treatment100",
+                "name": "Root Canal"
+            }
+
+        ]
+    },
+    {
+        "dentist_id": "Dentist222",
+        "name": "James Bond",
+        "contact_no": 92224444,
+        "patients": [
+            {
+                "patient_id": "Patient333",
+                "name": "Lian Ling Ling",
+                "mobile_no": 91902813,
+                "allergy": "none"
+            },
+            {
+                "patient_id": "Patient444",
+                "name": "Johan Ding",
+                "mobile_no": 91002753,
+                "allergy": "none"
+            }
+        ]
+    },
+    {
+        "dentist_id": "Dentist333",
+        "name": "Peter Wong",
+        "contact_no": 93215555,
+        "patients": [
+            {
+                "patient_id": "Patient555",
+                "name": "Vivian Lam",
+                "mobile_no": 904442411,
+                "allergy": "none"
+            },
+            {
+                "patient_id": "Patient666",
+                "name": "Jean Lim",
+                "mobile_no": 93244890,
+                "allergy": "none"
+            }
+        ],
+        "appointments" : [
+            {
+                "appointment_id" : "112",
+                "date" : "2022-06-22",
+                "time" : 1500,
+                "clinic_id": "Clinic123",
+                "clinic_name": "Another Some Clinic",
+                "patient_id": "Patient666",
+                "patient_name": "Jean Lim",
+                "patient_mobile_no": 93244890,
+                "treatment_id": "Treatment101",
+                "treat_name": "Wisdom Tooth Extraction"
+            }
+        ]
+    }
+]

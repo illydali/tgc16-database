@@ -1,0 +1,89 @@
+[
+    {
+        "id": "Patient111",
+        "name": "Lim Ah Jian",
+        "mobile_no": 95432011,
+        "allergy": "none",
+        "email": "limahjian@gmail.com",
+        "address": {
+            "postal_code": "S230008",
+            "street_name": "Ulu Pandang",
+            "block_num": "08",
+            "unit_num": "#10-09"
+        },
+        "date_of_birth": "1956-08-13",
+        "home_num": 65558888
+    },
+    {
+        "id": "Patient222",
+        "name": "Muhd Noor Saifuman",
+        "mobile_no": 93442810,
+        "allergy": "none",
+        "email": "muhdsaifuman@gmail.com",
+        "address": {
+            "postal_code": "S120870",
+            "street_name": "Bishan Street 6",
+            "block_num": "870",
+            "unit_num": "#20-121"
+        },
+        "date_of_birth": "1980-03-10"
+    },
+    {
+        "id": "Patient333",
+        "name": "Lian Ling Ling",
+        "mobile_no": 91902813,
+        "allergy": "none",
+        "email": "lianlingling@gmail.com",
+        "address": {
+            "postal_code": "S401455",
+            "street_name": "Ang Mo Kio Ave 8",
+            "block_num": "455",
+            "unit_num": "#02-321"
+        },
+        "date_of_birth": "1956-08-13",
+        "home_num": 66665444
+    },
+    {
+        "id": "Patient444",
+        "name": "Johan Ding",
+        "mobile_no": 91002753,
+        "allergy": "none",
+        "email": "johanding@gmail.com",
+        "address": {
+            "postal_code": "S230111",
+            "street_name": "Woodlands Ave 7",
+            "block_num": "111",
+            "unit_num": "#15-19"
+        },
+        "date_of_birth": "1970-02-27",
+        "home_num": 64317459
+    },
+    {
+        "id": "Patient555",
+        "name": "Vivian Lam",
+        "mobile_no": 904442411,
+        "allergy": "none",
+        "email": "vivianlam@gmail.com",
+        "address": {
+            "postal_code": "S600761",
+            "street_name": "Lorne Road",
+            "block_num": "761"
+        },
+        "date_of_birth": "1956-08-13"
+    },
+    {
+        "id": "Patient666",
+        "name": "Jean Lim",
+        "mobile_no": 93244890,
+        "allergy": "none",
+        "email": "jeanlim@gmail.com",
+        "address": {
+            "postal_code": "S340016",
+            "street_name": "Clementi Ave 1",
+            "block_num": "16",
+            "unit_num": "#13-10"
+        },
+        "date_of_birth": "1951-10-01",
+        "home_num": 62318901
+    }
+]

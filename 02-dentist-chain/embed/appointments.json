@@ -1,0 +1,54 @@
+[
+    {
+        "appointment_id" : "101",
+        "date" : "2022-05-13",
+        "time" : 1330,
+        "clinic_id": "Clinic122",
+        "clinic_name": "Some Clinic",
+        "patient_id": "Patient222",
+        "patient_name": "Muhd Noor Saifuman",
+        "patient_mobile_no": 93442810,
+        "treatment_id": "Treatment104",
+        "name": "Whitening",
+        "status": "Pending"
+    },
+    {
+        "appointment_id" : "102",
+        "date" : "2022-05-13",
+        "time" : 1600,
+        "clinic_id": "Clinic123",
+        "clinic_name": "Another Some Clinic",
+        "patient_id": "Patient111",
+        "patient_name": "Lim Ah Jian",
+        "patient_mobile_no": 95432011,
+        "treatment_id": "Treatment100",
+        "name": "Root Canal",
+        "status": "Pending"
+    },
+    {
+        "appointment_id" : "109",
+        "date" : "2022-06-10",
+        "time" : 1330,
+        "clinic_id": "Clinic123",
+        "clinic_name": "Another Some Clinic",
+        "patient_id": "Patient333",
+        "patient_name": "Lian Ling Ling",
+        "patient_mobile_no": 91902813,
+        "treatment_id": "Treatment101",
+        "treat_name": "Wisdom Tooth Extraction",
+        "status": "Cancelled"
+    },
+    {
+        "appointment_id" : "112",
+        "date" : "2022-06-22",
+        "time" : 1500,
+        "clinic_id": "Clinic123",
+        "clinic_name": "Another Some Clinic",
+        "patient_id": "Patient666",
+        "patient_name": "Jean Lim",
+        "patient_mobile_no": 93244890,
+        "treatment_id": "Treatment101",
+        "treat_name": "Wisdom Tooth Extraction",
+        "status": "Pending"
+    }
+]

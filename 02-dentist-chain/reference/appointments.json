@@ -1,0 +1,37 @@
+[{
+        "appointment_id": "101",
+        "date": "2022-05-13",
+        "time": 1330,
+        "clinic_id": "Clinic122",
+        "patient_id": "Patient222",
+        "treatment_id": "Treatment104",
+        "status": "Pending"
+    },
+    {
+        "appointment_id": "102",
+        "date": "2022-05-13",
+        "time": 1600,
+        "clinic_id": "Clinic123",
+        "patient_id": "Patient111",
+        "treatment_id": "Treatment100",
+        "status": "Pending"
+    },
+    {
+        "appointment_id": "109",
+        "date": "2022-06-10",
+        "time": 1330,
+        "clinic_id": "Clinic123",
+        "patient_id": "Patient333",
+        "treatment_id": "Treatment101",
+        "status": "Cancelled"
+    },
+    {
+        "appointment_id": "112",
+        "date": "2022-06-22",
+        "time": 1500,
+        "clinic_id": "Clinic123",
+        "patient_id": "Patient666",
+        "treatment_id": "Treatment101",
+        "status": "Pending"
+    }
+]
