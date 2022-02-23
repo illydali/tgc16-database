@@ -1,22 +1,18 @@
-[
-    {
-        "id": "Dentist111",
-        "name": "Mary Tan",
-        "contact_no": 93331111,
-        "patients": ["Patient111","Patient222"],
-        "upcoming_appointments" : ["101", "102"]
-    },
-    {
-        "dentist_id": "Dentist222",
-        "name": "James Bond",
-        "contact_no": 92224444,
-        "patients": ["Patient333","Patient444"]
-    },
-    {
-        "dentist_id": "Dentist333",
-        "name": "Peter Wong",
-        "contact_no": 93215555,
-        "patients": ["Patient555","Patient666"],
-        "upcoming_appointments" : ["112"]
-    }
+[{
+    "id": "Dentist111",
+    "name": "Mary Tan",
+    "contact_no": 93331111,
+    "upcoming_appointments": ["101", "102"]
+},
+{
+    "id": "Dentist222",
+    "name": "James Bond",
+    "contact_no": 92224444
+},
+{
+    "id": "Dentist333",
+    "name": "Peter Wong",
+    "contact_no": 93215555,
+    "upcoming_appointments": ["112"]
+}
 ]
