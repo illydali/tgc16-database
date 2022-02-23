@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": "Patient111",
         "name": "Lim Ah Jian",
         "mobile_no": 95432011,
@@ -12,7 +11,18 @@
             "unit_num": "#10-09"
         },
         "date_of_birth": "1956-08-13",
-        "home_num": 65558888
+        "home_num": 65558888,
+        "appointments": [{
+            "appointment_id": "102",
+            "date": "2022-05-13",
+            "time": 1600,
+            "clinic_id": "Clinic123",
+            "clinic_name": "Another Some Clinic"
+        }],
+        "dentist": {
+            "dentist_id": "Dentist111",
+            "name": "Mary Tan"
+        }
     },
     {
         "id": "Patient222",
@@ -26,7 +36,18 @@
             "block_num": "870",
             "unit_num": "#20-121"
         },
-        "date_of_birth": "1980-03-10"
+        "date_of_birth": "1980-03-10",
+        "appointments": [{
+            "appointment_id": "101",
+            "date": "2022-05-13",
+            "time": 1330,
+            "clinic_id": "Clinic122",
+            "clinic_name": "Some Clinic"
+        }],
+        "dentist": {
+            "dentist_id": "Dentist111",
+            "name": "Mary Tan"
+        }
     },
     {
         "id": "Patient333",
@@ -41,7 +62,18 @@
             "unit_num": "#02-321"
         },
         "date_of_birth": "1956-08-13",
-        "home_num": 66665444
+        "home_num": 66665444,
+        "appointments": [{
+            "appointment_id": "109",
+            "date": "2022-06-10",
+            "time": 1330,
+            "clinic_id": "Clinic123",
+            "clinic_name": "Another Some Clinic"
+        }],
+        "dentist": {
+            "dentist_id": "Dentist222",
+            "name": "James Bond"
+        }
     },
     {
         "id": "Patient444",
@@ -56,7 +88,11 @@
             "unit_num": "#15-19"
         },
         "date_of_birth": "1970-02-27",
-        "home_num": 64317459
+        "home_num": 64317459,
+        "dentist": {
+            "dentist_id": "Dentist222",
+            "name": "James Bond"
+        }
     },
     {
         "id": "Patient555",
@@ -69,7 +105,11 @@
             "street_name": "Lorne Road",
             "block_num": "761"
         },
-        "date_of_birth": "1956-08-13"
+        "date_of_birth": "1956-08-13",
+        "dentist": {
+            "dentist_id": "Dentist111",
+            "name": "Mary Tan"
+        }
     },
     {
         "id": "Patient666",
@@ -84,6 +124,17 @@
             "unit_num": "#13-10"
         },
         "date_of_birth": "1951-10-01",
-        "home_num": 62318901
+        "home_num": 62318901,
+        "appointments": [{
+            "appointment_id": "112",
+            "date": "2022-06-22",
+            "time": 1500,
+            "clinic_id": "Clinic123",
+            "clinic_name": "Another Some Clinic"
+        }],
+        "dentist": {
+            "dentist_id": "Dentist333",
+        "name": "Peter Wong"
+        }
     }
 ]
